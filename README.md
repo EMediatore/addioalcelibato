@@ -30,17 +30,3 @@
 ## ABRUZZO
 <a href="https://www.hometogo.it/rental/z9cbbc326b763d374?arrival=2020-08-22&bathrooms=1&bedrooms=1&bounds=44.70470%2C10.68567%3B38.43135%2C15.04285&clickId=CZBJK5HG&directId=z9cbbc326b763d374&dp=0&duration=1&id=z9cbbc326b763d374&location=5460aeae078f7&minPricePerNight=340EUR&pCon=575.7%7CEUR%7C2020-08-22%7C1%7C2%7C1593362531%7C0%7C0&pricetype=perNight&prodName=JM&prodSource=Search&rating=1&sT=withDates&screen=search&searchId=b3f9e51a4374031c&type%5B0%5D=chalet&type%5B1%5D=holiday_house&type%5B2%5D=luxury&type%5B3%5D=villa" target="_blank">Ortona (CH)</a> **575,70 €**
 
-# [VOTA!](https://www.strawpoll.me/20459185)
-
-[![](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/a)](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/a/vote)
-[![](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/b)](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/b/vote)
-[![](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/c)](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/c/vote)
-[![](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/d)](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/d/vote)
-[![](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/e)](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/e/vote)
-[![](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/f)](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/f/vote)
-[![](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/g)](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/g/vote)
-[![](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/h)](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/h/vote)
-[![](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/i)](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/i/vote)
-[![](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/l)](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/l/vote)
-[![](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/m)](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/m/vote)
-[![](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/n)](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/n/vote)
