@@ -28,4 +28,3 @@
 
 ## ABRUZZO
 <a href="https://www.hometogo.it/rental/z9cbbc326b763d374?arrival=2020-08-22&bathrooms=1&bedrooms=1&bounds=44.70470%2C10.68567%3B38.43135%2C15.04285&clickId=CZBJK5HG&directId=z9cbbc326b763d374&dp=0&duration=1&id=z9cbbc326b763d374&location=5460aeae078f7&minPricePerNight=340EUR&pCon=575.7%7CEUR%7C2020-08-22%7C1%7C2%7C1593362531%7C0%7C0&pricetype=perNight&prodName=JM&prodSource=Search&rating=1&sT=withDates&screen=search&searchId=b3f9e51a4374031c&type%5B0%5D=chalet&type%5B1%5D=holiday_house&type%5B2%5D=luxury&type%5B3%5D=villa" target="_blank">Ortona (CH)</a> **575,70 €**
-
