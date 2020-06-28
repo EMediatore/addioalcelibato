@@ -32,7 +32,7 @@
 
 # [VOTA!](https://www.strawpoll.me/20459185)
 
-[![](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/Molino dei Lunghi (PG))](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/Molino dei Lunghi (PG)/vote)
+[![](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/a)](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/Molino dei Lunghi (PG)/vote)
 [![](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/b)](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/b/vote)
 [![](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/c)](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/c/vote)
 [![](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/d)](https://api.gh-polls.com/poll/01EBYA8P0SMMPWADREV6SXFDY2/d/vote)
