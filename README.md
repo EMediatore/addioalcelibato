@@ -8,7 +8,6 @@
 **1.236,98 €**
 [vedi su maps](https://www.google.it/maps/place/La+Villa+sul+Lago/@43.2178713,12.0923008,17z/data=!3m1!4b1!4m8!3m7!1s0x132c00b7d4e171cd:0xb5cdf07d7b3f32e5!5m2!4m1!1i2!8m2!3d43.2178674!4d12.0944895)
 
-![](Screenshot_20200628_231308_com.google.android.apps.maps.jpg)
 ## TOSCANA
 <a href="https://www.hometogo.it/rental/z64e8cfa0de31a635?arrival=2020-08-22&bathrooms=1&bedrooms=1&children=0&clickId=JLXT9VZJ&dp=0&duration=1&expand=1%2C2%2C3&location=5460aeae078f7&minPricePerNight=340EUR&pCon=473.1%7CEUR%7C2020-08-22%7C1%7C2%7C1593361400%7C0%7C0&persons=6&pricetype=perNight&prodName=JM&prodSource=Search&rating=1&sT=withDates&screen=search&searchId=228cfafb1274dc7a&type[]=chalet&type[]=holiday_house&type[]=luxury&type[]=villa" target="_blank">San Pietro a vico (LU)</a> **473,10 €**
 
