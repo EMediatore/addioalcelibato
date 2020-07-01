@@ -13,3 +13,4 @@
 **1.236,98 €**
 [vedi su maps](https://www.google.it/maps/place/La+Villa+sul+Lago/@43.2178713,12.0923008,17z/data=!3m1!4b1!4m8!3m7!1s0x132c00b7d4e171cd:0xb5cdf07d7b3f32e5!5m2!4m1!1i2!8m2!3d43.2178674!4d12.0944895)
 
+/polls 1. RAFTING & DEGUSTAZIONE VINI '### 2. KART E VILLA CON PISCINA'
