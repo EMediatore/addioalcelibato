@@ -11,7 +11,7 @@
 
 
 <a href="https://www.vrbo.com/it-it/affitto-vacanze/p986615vb?CID=a_ph_6&adultsCount=13&arrival=2020-08-22&cid=l_ha3pd-affiliate-6_&departure=2020-08-23&gx-currency=EUR&k_clickid=1101l9pRm2A7&unitId=1534571&utm_campaign=hometogo_1100l265&utm_content=0&utm_medium=partner&utm_source=aff_ph" target="_blank">Villa sul Trasimeno a Cortona (PG)</a>
-**1.236,98 €**
+**1.181,33 €**
 [vedi su maps](https://www.google.it/maps/place/La+Villa+sul+Lago/@43.2178713,12.0923008,17z/data=!3m1!4b1!4m8!3m7!1s0x132c00b7d4e171cd:0xb5cdf07d7b3f32e5!5m2!4m1!1i2!8m2!3d43.2178674!4d12.0944895)
 
 # VOTATE!
