@@ -5,7 +5,7 @@
 
 [Degustazione vini](https://www.resortsantapollinare.com)
 
-### 2. KART E VILLA CON PISCINA
+### 2. KART & VILLA CON PISCINA
 [Go Kart,](http://www.trackfire.it)
 [ vedi su maps](https://www.google.it/maps/place/TrackFire+Go-Kart/@43.0022825,12.1713442,17z/data=!3m1!4b1!4m5!3m4!1s0x132eae0ddb5c5a4f:0xcab46c6319892332!8m2!3d43.0022786!4d12.1735329)
 
