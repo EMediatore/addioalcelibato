@@ -1,12 +1,10 @@
 
 ## UMBRIA 22 AGOSTO
+
 ### 1. RAFTING & RESORT SANT'APOLLINARE
 <a href="https://www.raftingumbria.it" target="_blank">Rafting/percorso avventura Serravalle di Norcia (PG)</a>
 
 ![testo alt](https://www.asgaia.it/media/k2/items/cache/51a3864ed3ad604d2340c3f8fe249f94_XL.jpg)
-
-[maps](https://www.google.com/maps/search/serravalle+di+norcia+rafting/@42.7852431,13.0210519,17z/data=!3m1!4b1)
-
 
 <a href="https://www.resortsantapollinare.com" target="_blank">Residence, Marsciano(PG)</a>
 
@@ -19,6 +17,7 @@
   * RAFTING/PERCORSO AVVENTURA  
   * h. 17:00 direzione Marsciano presso Residence Sant'Apollinare  
   * MAGNATA A TERRA CREPATA
+
 
 ### 2. KART & VILLA CON PISCINA
 [Go Kart,](https://www.facebook.com/trackfiregokart)
