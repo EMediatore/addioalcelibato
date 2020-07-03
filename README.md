@@ -38,9 +38,9 @@
   * h. 20:00 direzione Cortona per villa sul Lago Trasimeno
   * MAGNATA E BRACIATA A TERRA CREPATA
 
-# BUDGET €250,00 A TESTA ca
+#### BUDGET €250,00 A TESTA ca
 
-# VOTATE!
+### VOTATE!
 
 [![](https://api.gh-polls.com/poll/01ECAVMS7EFQWHV23J1QB6G1P3/Rafting-Percorso%20avventura%20%26%20Residence%20Sant'Apollinare)](https://api.gh-polls.com/poll/01ECAVMS7EFQWHV23J1QB6G1P3/Rafting-Percorso%20avventura%20%26%20Residence%20Sant'Apollinare/vote)
 [![](https://api.gh-polls.com/poll/01ECAVMS7EFQWHV23J1QB6G1P3/Kart%20%26%20Villa%20con%20piscina)](https://api.gh-polls.com/poll/01ECAVMS7EFQWHV23J1QB6G1P3/Kart%20%26%20Villa%20con%20piscina/vote)
