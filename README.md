@@ -24,7 +24,7 @@
 
 #### PROGRAMMA: 
   
-  * h. 15:00 Appuntamento a Perugia
+  * h. 16:00 Appuntamento a Perugia
   * h. 17:00 Con pulmino privato fino a [Canneto (PG)](https://www.google.it/maps/place/TrackFire+Go-Kart/@43.0022825,12.1713442,17z/data=!3m1!4b1!4m5!3m4!1s0x132eae0ddb5c5a4f:0xcab46c6319892332!8m2!3d43.0022786!4d12.1735329)
   * [GP Go Kart](https://www.facebook.com/trackfiregokart) 
   * h. 20:00 direzione [Vernazzano](https://www.google.it/maps/place/La+Villa+sul+Lago/@43.2078975,12.089705,14.13z/data=!4m8!3m7!1s0x132c00b7d4e171cd:0xb5cdf07d7b3f32e5!5m2!4m1!1i2!8m2!3d43.2178674!4d12.0944895) per <a href="https://www.vrbo.com/it-it/affitto-vacanze/p986615vb?adultsCount=13&arrival=2020-08-22&departure=2020-08-23" target="_blank">Villa con piscina</a>
