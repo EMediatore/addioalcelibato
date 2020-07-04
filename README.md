@@ -25,8 +25,7 @@
 #### PROGRAMMA: 
   
   * h. 10:00 Appuntamento a Firenze
-  * h. 11:00 Con pulmino privato fino a [San Jacopo al Girone](https://www.google.com/maps/place/T-rafting/@43.7695154,11.2653187,13z/data=!4m8!1m2!2m1!1sRafting+!3m4!1s0x0:0x68b19cd1a108c7b1!8m2!3d43.7709699!4d11.3454437)
-  * [Rafting](https://www.t-rafting.com)
+  * h. 11:00 Con pulmino privato fino alla [Cascata del Diborrato](https://www.google.com/maps/place/Cascata+del+Diborrato/@43.7695154,11.2653187,13z/data=!4m5!3m4!1s0x132a3ac981d07d81:0x9c93ffbdfa74d1ed!8m2!3d43.4047335!4d11.1362039)
   * h. 14:00 direzione [Rignano sull'Arno](https://www.google.com/maps/place/Leopoldina/@43.7311165,11.3948285,17z/data=!4m7!3m6!1s0x132bac5cf57dee5f:0xfd31baee679f0ae9!8m2!3d43.7311126!4d11.3970172!9m1!1b1) per <a href="https://www.vrbo.com/it-it/affitto-vacanze/p1659038?adultsCount=13&arrival=2020-08-22&departure=2020-08-23" target="_blank">Villa con piscina</a>
   * CENA E DOPOCENA
 
