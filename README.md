@@ -1,7 +1,8 @@
 
-## UMBRIA 22 AGOSTO
+# 22 AGOSTO
 
-### 1. RAFTING & RESORT SANT'APOLLINARE
+### 1. UMBRIA - RAFTING & RESORT SANT'APOLLINARE
+
 
 ![testo alt](https://www.asgaia.it/media/k2/items/cache/51a3864ed3ad604d2340c3f8fe249f94_XL.jpg)
 
@@ -15,23 +16,23 @@
   * CENA
 
 
-### 2. KART & VILLA CON PISCINA
+### 2. TOSCANA - RAFTING & VILLA CON PISCINA
 
 
-![img](https://i.ytimg.com/vi/dyQ2vfDuhvc/maxresdefault.jpg)
+![img](https://odis.homeaway.com/odis/listing/d01ac035-8fa1-4a5a-b6d7-f17d9e3524a6.f10.jpg)
 
 
 #### PROGRAMMA: 
   
-  * h. 16:00 Appuntamento a Perugia
-  * h. 18:00 Con pulmino privato fino a [Canneto, località Vocabolo Scarpiello](https://www.google.it/maps/place/TrackFire+Go-Kart/@43.0022825,12.1713442,17z/data=!3m1!4b1!4m5!3m4!1s0x132eae0ddb5c5a4f:0xcab46c6319892332!8m2!3d43.0022786!4d12.1735329)
-  * [GP Go Kart](https://www.facebook.com/trackfiregokart)
-  * h. 20:00 direzione [Cortona](https://www.g</div>oogle.it/maps/place/La+Villa+sul+Lago/@43.2178713,12.0923008,17z/data=!3m1!4b1!4m8!3m7!1s0x132c00b7d4e171cd:0xb5cdf07d7b3f32e5!5m2!4m1!1i2!8m2!3d43.2178674!4d12.0944895) per <a href="https://www.vrbo.com/it-it/affitto-vacanze/p986615vb?CID=a_ph_6&adultsCount=13&arrival=2020-08-22&cid=l_ha3pd-affiliate-6_&departure=2020-08-23&gx-currency=EUR&k_clickid=1101l9pRm2A7&unitId=1534571&utm_campaign=hometogo_1100l265&utm_content=0&utm_medium=partner&utm_source=aff_ph" target="_blank">Villa sul Trasimeno</a>
-  * CENA
+  * h. 10:00 Appuntamento a Firenze
+  * h. 11:00 Con pulmino privato fino a [San Jacopo al Girone](https://www.google.com/maps/place/T-rafting/@43.7695154,11.2653187,13z/data=!4m8!1m2!2m1!1sRafting+!3m4!1s0x0:0x68b19cd1a108c7b1!8m2!3d43.7709699!4d11.3454437)
+  * [Rafting](https://www.t-rafting.com)
+  * h. 14:00 direzione [Rignano sull'Arno](https://www.google.com/maps/place/Leopoldina/@43.7311165,11.3948285,17z/data=!4m7!3m6!1s0x132bac5cf57dee5f:0xfd31baee679f0ae9!8m2!3d43.7311126!4d11.3970172!9m1!1b1) per <a href="https://www.vrbo.com/it-it/affitto-vacanze/p1659038?adultsCount=13&arrival=2020-08-22&departure=2020-08-23" target="_blank">Villa con piscina</a>
+  * CENA E DOPOCENA
 
 #### BUDGET €250,00 A TESTA ca
 
 ### VOTATE!
 
-[![](https://api.gh-polls.com/poll/01ECAVMS7EFQWHV23J1QB6G1P3/Rafting-Percorso%20avventura%20%26%20Residence%20Sant'Apollinare)](https://api.gh-polls.com/poll/01ECAVMS7EFQWHV23J1QB6G1P3/Rafting-Percorso%20avventura%20%26%20Residence%20Sant'Apollinare/vote)
-[![](https://api.gh-polls.com/poll/01ECAVMS7EFQWHV23J1QB6G1P3/Kart%20%26%20Villa%20con%20piscina)](https://api.gh-polls.com/poll/01ECAVMS7EFQWHV23J1QB6G1P3/Kart%20%26%20Villa%20con%20piscina/vote)
+[![](https://api.gh-polls.com/poll/01ECCXJA9PRJ866NEX4MPM0SGB/UMBRIA%20-%20RAFTING%20%26%20RESORT%20SANT'APOLLINARE)](https://api.gh-polls.com/poll/01ECCXJA9PRJ866NEX4MPM0SGB/UMBRIA%20-%20RAFTING%20%26%20RESORT%20SANT'APOLLINARE/vote)
+[![](https://api.gh-polls.com/poll/01ECCXJA9PRJ866NEX4MPM0SGB/TOSCANA%20-%20RAFTING%20%26%20VILLA%20CON%20PISCINA)](https://api.gh-polls.com/poll/01ECCXJA9PRJ866NEX4MPM0SGB/TOSCANA%20-%20RAFTING%20%26%20VILLA%20CON%20PISCINA/vote)
