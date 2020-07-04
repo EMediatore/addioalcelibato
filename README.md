@@ -1,7 +1,7 @@
 
-# 22 AGOSTO
+# UMBRIA 22 AGOSTO
 
-### 1. UMBRIA - RAFTING & RESORT SANT'APOLLINARE
+### 1. RAFTING & RESORT SANT'APOLLINARE
 
 
 ![testo alt](https://www.asgaia.it/media/k2/items/cache/51a3864ed3ad604d2340c3f8fe249f94_XL.jpg)
@@ -16,21 +16,21 @@
   * Tour Wine, cena a bordo piscina e bagno in Piscina
 
 
-### 2. TOSCANA - RAFTING & VILLA CON PISCINA
+### 2. GR GO KART & VILLA CON PISCINA
 
 
-![img](https://odis.homeaway.com/odis/listing/baaf8404-e0a4-4ed0-9630-a23b3a3f61fe.f10.jpg)
+![img](https://i.ytimg.com/vi/dyQ2vfDuhvc/maxresdefault.jpg)
 
 
 #### PROGRAMMA: 
   
-  * h. 9:00 Appuntamento a Firenze
-  * h. 10:00 Con pulmino privato fino alla [Cascata del Diborrato](https://www.google.com/maps/place/Cascata+del+Diborrato/@43.7695154,11.2653187,13z/data=!4m5!3m4!1s0x132a3ac981d07d81:0x9c93ffbdfa74d1ed!8m2!3d43.4047335!4d11.1362039)
-  * [Rafting](https://www.t-rafting.com/project/rafting-fiume-elsa/) 
-  * h. 15:00 direzione [Castellina in Chianti](https://www.google.com/maps/place/Leopoldina/@43.7311165,11.3948285,17z/data=!4m7!3m6!1s0x132bac5cf57dee5f:0xfd31baee679f0ae9!8m2!3d43.7311126!4d11.3970172!9m1!1b1) per <a href="https://www.vrbo.com/it-it/affitto-vacanze/p1061581vb?adultsCount=13&arrival=2020-08-22&departure=2020-08-23" target="_blank">Villa con piscina</a>
+  * h. 15:00 Appuntamento a Perugia
+  * h. 17:00 Con pulmino privato fino a [Canneto (PG)](https://www.google.it/maps/place/TrackFire+Go-Kart/@43.0022825,12.1713442,17z/data=!3m1!4b1!4m5!3m4!1s0x132eae0ddb5c5a4f:0xcab46c6319892332!8m2!3d43.0022786!4d12.1735329)
+  * [GP Go Kart](https://www.facebook.com/trackfiregokart) 
+  * h. 20:00 direzione [Vernazzano](https://www.google.it/maps/place/La+Villa+sul+Lago/@43.2078975,12.089705,14.13z/data=!4m8!3m7!1s0x132c00b7d4e171cd:0xb5cdf07d7b3f32e5!5m2!4m1!1i2!8m2!3d43.2178674!4d12.0944895) per <a href="https://www.vrbo.com/it-it/affitto-vacanze/p986615vb?adultsCount=13&arrival=2020-08-22&departure=2020-08-23" target="_blank">Villa con piscina</a>
   * CENA E BORDELLO
 
-#### BUDGET €250,00 A TESTA ca
+#### BUDGET €300,00 A TESTA ca
 
 ### VOTATE!
 
