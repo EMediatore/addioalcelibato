@@ -14,7 +14,7 @@
 
 #### PROGRAMMA: 
   
-  * h. 10:00 Appuntamento a Spoleto *(possibilità di parcheggio a Spoletosfera per 10€ al giorno)*
+  * h. 10:00 Appuntamento a Spoleto *(possibilità di parcheggio a [Spoletosfera](https://www.google.it/maps/place/Parcheggio+Spoletosfera/@42.7314275,12.7326153,17z/data=!4m8!1m2!2m1!1sspoletosfera!3m4!1s0x132ef4611e2a61bd:0x3d46bc75be78f628!8m2!3d42.7299793!4d12.7336183) per 10€ al giorno)*
   * h. 12:00 Con pulmino privato fino a Serravalle di Norcia, via del fiume Corno n.5
   * RAFTING/PERCORSO AVVENTURA  
   * h. 17:00 direzione Marsciano presso Residence Sant'Apollinare  
