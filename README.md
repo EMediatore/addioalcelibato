@@ -18,7 +18,7 @@
   * h. 12:00 Con pulmino privato fino a Serravalle di Norcia, via del fiume Corno n.5
   * RAFTING/PERCORSO AVVENTURA  
   * h. 17:00 direzione Marsciano presso Residence Sant'Apollinare  
-  * MAGNATA A TERRA CREPATA
+  * CENA
 
 
 ### 2. KART & VILLA CON PISCINA
@@ -38,7 +38,7 @@
   * h. 18:00 Con pulmino privato fino a Canneto, località Vocabolo Scarpiello
   * MINI GP KART
   * h. 20:00 direzione Cortona per villa sul Lago Trasimeno
-  * MAGNATA E BRACIATA A TERRA CREPATA
+  * CENA
 
 #### BUDGET €250,00 A TESTA ca
 
