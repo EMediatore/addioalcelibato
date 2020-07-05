@@ -37,7 +37,7 @@
 [![](https://api.gh-polls.com/poll/01ECD289JR63R6JEWB9T8YV3KY/RAFTING%20%26%20RESORT%20SANT'APOLLINARE)](https://api.gh-polls.com/poll/01ECD289JR63R6JEWB9T8YV3KY/RAFTING%20%26%20RESORT%20SANT'APOLLINARE/vote)
 [![](https://api.gh-polls.com/poll/01ECD289JR63R6JEWB9T8YV3KY/GP%20GO%20KART%20%26%20VILLA%20CON%20PISCINA)](https://api.gh-polls.com/poll/01ECD289JR63R6JEWB9T8YV3KY/GP%20GO%20KART%20%26%20VILLA%20CON%20PISCINA/vote)
 
-=======================
+===================================
 # PIANO B TOSCANA
 
   * h. 16:00 Appuntamento a FIRENZE
@@ -47,4 +47,4 @@
   * DOMENICA MATTINA h. 9:00 direzione [Colle di Val d'Elsa](https://www.google.it/maps/place/53034+Colle+di+Val+d'Elsa+SI/@43.4022852,11.0636128,11.79z/data=!4m5!3m4!1s0x132a3ac3558cc631:0x39d1b483bc65251e!8m2!3d43.4199639!4d11.1272064) per <a href="https://www.t-rafting.com/project/rafting-fiume-elsa/" target="_blank">RAFTING FIUME ELSA</a>
   * h.14:00 rientro a Firenze
   
-  ### Budget €200-250,00 ca
+  ## Budget €200-250,00 ca
