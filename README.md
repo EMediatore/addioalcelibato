@@ -36,3 +36,14 @@
 
 [![](https://api.gh-polls.com/poll/01ECD289JR63R6JEWB9T8YV3KY/RAFTING%20%26%20RESORT%20SANT'APOLLINARE)](https://api.gh-polls.com/poll/01ECD289JR63R6JEWB9T8YV3KY/RAFTING%20%26%20RESORT%20SANT'APOLLINARE/vote)
 [![](https://api.gh-polls.com/poll/01ECD289JR63R6JEWB9T8YV3KY/GP%20GO%20KART%20%26%20VILLA%20CON%20PISCINA)](https://api.gh-polls.com/poll/01ECD289JR63R6JEWB9T8YV3KY/GP%20GO%20KART%20%26%20VILLA%20CON%20PISCINA/vote)
+
+======================================================================================
+# PIANO B TOSCANA
+
+  * h. 16:00 Appuntamento a FIRENZE
+  * h. 17:00 Con pulmino privato fino a [Castellina in Chianti](https://www.google.it/maps/place/Agricola+Sommavilla/@43.4731393,11.3002602,17z/data=!3m1!4b1!4m5!3m4!1s0x132a34895b39f49d:0x9c2a9d3b71c7690a!8m2!3d43.4731354!4d11.3024489) per <a href="https://www.vrbo.com/it-it/affitto-vacanze/p1061581vb?adultsCount=13&arrival=2020-08-22&departure=2020-08-23" target="_blank">Villa con piscina</a> 
+  (*Alternativa più economica [La loggia Villa Gloria](http://www.booking.com/Share-sar2v1)*)
+  * CENA E BORDELLO
+  * DOMENICA MATTINA h. 9:00 direzione [Colle di Val d'Elsa](https://www.google.it/maps/place/53034+Colle+di+Val+d'Elsa+SI/@43.4022852,11.0636128,11.79z/data=!4m5!3m4!1s0x132a3ac3558cc631:0x39d1b483bc65251e!8m2!3d43.4199639!4d11.1272064) per <a href="https://www.t-rafting.com/project/rafting-fiume-elsa/" target="_blank">RAFTING FIUME ELSA</a>
+  * h.14:00 rientro a Firenze
+  ### Budget €200-250,00 ca
