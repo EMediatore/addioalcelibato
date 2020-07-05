@@ -48,3 +48,4 @@
   * h.14:00 rientro a Firenze
   
   ## Budget €200-250,00 ca
+[![](https://api.gh-polls.com/poll/01ECFNNANY9EZRKH46F94BM6MD/PIANO%20B%20TOSCANA%20Villa%20e%20Rafting)](https://api.gh-polls.com/poll/01ECFNNANY9EZRKH46F94BM6MD/PIANO%20B%20TOSCANA%20Villa%20e%20Rafting/vote)
